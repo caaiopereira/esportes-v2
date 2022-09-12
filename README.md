@@ -4,7 +4,7 @@
     Menu com interação, dropdown e tooltip
     Formulário para contato
     Utilizado Bootstrap
-    Alertas para 
+    Alertas
     Adicionado Logotipo
     Banner, Cards, Badges e Collapse
     Designer responsivo para Mobile
